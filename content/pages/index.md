@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Innovation & Automation for the win!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: What you've been waiting for...
     actions:
       - label: Try for free
         url: /pricing
