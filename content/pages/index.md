@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Try for free
         url: /pricing
-        style: primary
+        style: link
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
