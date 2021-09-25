@@ -9,6 +9,7 @@ sections:
         url: /pricing
         style: secondary
         has_icon: false
+        icon: facebook
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
