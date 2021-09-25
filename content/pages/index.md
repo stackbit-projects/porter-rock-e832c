@@ -8,7 +8,7 @@ sections:
       - label: Try for free
         url: /pricing
         style: secondary
-        has_icon: true
+        has_icon: false
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
